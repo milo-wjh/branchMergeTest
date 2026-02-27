@@ -1,4 +1,4 @@
 初始内容
 
 冲突测试
-mergeTest ADD 2
+mergeTest ADD 3
